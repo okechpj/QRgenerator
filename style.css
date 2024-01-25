@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+    font-family: 'Arial', sans-serif;
+   
+}
+
+form{
+   border: 1px solid grey;
+   border-radius: 9px;
+   margin-top: 50px;
+    padding: 50px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-color:  #262a2f;
+    color: white;
+}
+
+#qrbox{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+img{
+    border-radius: 10px;
+    padding: 10px;
+}
